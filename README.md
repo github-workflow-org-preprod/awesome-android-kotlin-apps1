@@ -3,7 +3,7 @@
 <!--
 THIS IS A COMPUTER GENERATED README FILE. IF YOU'RE HERE TO MODIFY SOME CONTENT, GOTO 
 https://github.com/androiddevnotes/awesome-android-kotlin-apps/edit/master/README.model.md 
-AND EDIT THE  MODEL FILE.
+AND EDIT THE  MODEL FILE.   
 -->
 
 
